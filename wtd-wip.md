@@ -7,16 +7,13 @@ description: What to do / work in progress
 ### Work in Progress
 
 * [ ] Internship report
-
-### What to Do
-
 * [ ] Thesis writing
 * [ ] Thesis observation & research
 * [ ] Thesis project design & codes
 
 ### Future Tasks
 
-* [x] Personal website design & codes
+* [ ] Personal website design & codes \(Phase 2\)
 * [ ] Preparing abroad scholarship
 * [ ] Finding a job
 
