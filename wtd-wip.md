@@ -1,7 +1,3 @@
----
-description: What to do / work in progress
----
-
 # 📄 WTD/WIP
 
 ### Work in Progress
