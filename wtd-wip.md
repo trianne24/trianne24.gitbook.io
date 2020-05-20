@@ -16,7 +16,7 @@ description: What to do / work in progress
 
 ### Future Tasks
 
-* [ ] Personal website design & codes
+* [x] Personal website design & codes
 * [ ] Preparing abroad scholarship
 * [ ] Finding a job
 

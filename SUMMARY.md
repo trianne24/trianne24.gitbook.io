@@ -8,8 +8,9 @@
 * [Life Achievements](get/life-achievements/README.md)
   * [Histories](get/life-achievements/histories.md)
   * [Informatics](get/life-achievements/informatics.md)
-* [Social Links](get/contacts.md)
 * [CV/Portfolio](get/cv-portfolio.md)
+* [Social Links](get/contacts.md)
+* [\#100Workout Challenges](get/100workout-challenges.md)
 
 ## Stories in 2016 <a id="2016"></a>
 

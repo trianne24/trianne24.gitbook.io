@@ -8,9 +8,9 @@ Hi my name is Patricia Joanne and I am an Informatics student of Padjadjaran Uni
 
 Before reading my blog posts, you may consider these posts to get to know me better:
 
-{% page-ref page="get/life-achievements/" %}
-
-{% page-ref page="get/contacts.md" %}
+* [History of my life experiences](get/life-achievements/histories.md)
+* [Informatics related projects I've done](get/life-achievements/informatics.md)
+* [List of my active social media accounts](get/contacts.md)
 
 Thank you for visiting my blog!
 
