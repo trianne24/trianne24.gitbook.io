@@ -1,0 +1,16 @@
+---
+description: 'August 30, 2017'
+---
+
+# LINE@ Official Account Socialization
+
+I was surprised when I got an invitation for making an official LINE@ account from Senior Ojan, like OMG why didn’t Senior Algif tell me from the beginning? I was planning to have a holiday today but unfortunately I had to represent Senior Algif for making Himatif’s LINE@ be an official LINE@ account.
+
+Yesterday night, when I was calling Senior Ojan, he told me that there would be a socialization for making an official LINE@ account and he got that invitation because he signed himself for making IFest’s LINE@ be an official LINE@ account. Senior Algif and Senior Tiar also signed themselves for Himatif and Mathematics and Natural Sciences Faculty Students Executive Board but they didn’t tell me about that invitation. Of course, I reminded them about the invitation. This morning, I got reply from them. Senior Tiar thanked to me for the reminder, he didn’t get the invitation and luckily he was free so he could come to the event. But Senior Algif’s reply made me sad, he had already gotten the invitation and he couldn’t come but he didn’t ask anyone to represent him. At that time I had to admit that why Senior Algif was a quitter. I couldn’t imagine if I didn’t get the invitation from Senior Ojan last night, maybe Himatif and Mathematics and Natural Sciences Faculty Students Executive Board’s LINE@ weren’t being official. This chance of making an official LINE@ account from Social and Political Sciences Faculty Students Executive Board was really worthy and it’s a shame if we missed it.
+
+That’s a little story why I had to go to this socialization event even though I wasn’t anyone. I went there late and sat next to Zaenal, who represented Senior Ojan for making IFest’s LINE@ be an official LINE@ account. The seminar was really enjoyable and unexpected, because the speaker had a prize for who could answer her questions. And the prize wasn’t as usual, it was a LINE doll which came from South Korea and wasn’t sold in Indonesia. Senior Tiar was lucky, he got one. Not only that prize, the speaker also had a quiz game using Kahoot app. The first 3 winners of this game would get free LINE theme and LINE stickers. Sadly, I was the 4th winner so I didn’t get the prize :”\(
+
+The socialization event was finished and I met Senior Tiar to talk about our wall magazine problem. Seriously we never take care our wall magazine again because the wall was very bad. We need a glass wall from the dean to cover the wall so our wall magazine wouldn’t be broken. Or the alternative solution is we move the wall magazine to PPBS building’s wall. That’s why today Senior Tiar and me met the guard of PPBS building to ask for his permission so we could use PPBS building’s wall. After discussed with the guard, we concluded that we should move the wall magazine to PPBS building’s wall but before that Senior Tiar should bring the permission letter together with Senior Lukman as the president of Mathematics and Natural Sciences Faculty Students Executive Board.
+
+So finally I could rest in my bed after finishing my activities today. Well, I hope there will be another day for me to take a holiday trip to replace today’s plan.
+

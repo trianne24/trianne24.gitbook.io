@@ -1,0 +1,20 @@
+---
+description: 'March 31, 2019'
+---
+
+# New Phone
+
+As the title says, I got a new phone. Remember when I said my phone was broken in [this post](../02/the-most-outstanding-student-goes-wrong.md)? Now it’s time to buy a new one.
+
+I actually didn’t tell my family about this and I kept this as my secret. During the time I couldn’t use my broken phone, I borrowed Senior Alwan’s old phone. His old phone was actually not really good because sometimes it was hard to touch the screen. Sometimes I got scolded by my father because I didn’t answer his calls. The worst of all, I only could use Whatsapp as my communication media in the phone. I didn’t want to use LINE to Senior Alwan’s phone because when I signed in to another phone, the data in the old phone would be erased. To save myself from losing more memories, I bought an usb cable that could be used as a connector so that I could use mouse to interact with the screen in my phone. Seriously, this was worked! When I connected the mouse to my phone, there would be a mouse pointer inside the screen. The problem with this thing was I could only use it just for clicking. I couldn’t drag or right click or anything else but I felt this way was already enough. The mouse that could be used should be a new model too. I couldn’t use my damn old mouse that I brought from my house but luckily I could borrow from Senior Ojan just to back up my memories in the phone.
+
+Oh yes, I forgot to tell this. Before I decided to buy a new phone, I already tried to fix my phone instead. I was already so in love with my phone. In the phone reparation shop that Senior Ojan recommended, my phone got a new phone screen and a new battery. I was so unlucky and the reparation was not even longer than a week but the phone screen was broken again. The cracks were not even worse but it kept losing the sensitiveness. My mind said, “Damn, I should get a new love–I meant a new phone.”
+
+Several days before I went to BEC to buy a new phone, I researched on many good phone models from gsmarena.com based on what would I like. Of course I liked to have a big size of internal storage and RAM. That’s my number one priority. After that I would pick based on the model. I would like to have a phone with a whole screen and no buttons or anything else in the screen. I liked to go for a model like iPhone X with a little bang of front camera on the phone’s head. After I got some models to choose, I brought the money to buy it and I went to buy to BEC in Bandung.
+
+In reality, it wasn’t as easy as I thought. All of the models that I wanted weren’t ready in the phone shops yet. GSM Arena didn’t tell me about when would the phone models that I wanted in Indonesia because the website was not made for Indonesians. GSM Arena provided the information of the release date in global. Because of that, I decided to consider Senior Ojan’s recommendation which was Samsung J6+. His father had that one and the phone had the number one priority that I wanted: big size of internal storage and RAM. The price was more expensive that I predicted but that’s okay if this phone was really good. Luckily, I brought enough money, more than what I predicted on the models that I wanted to buy although I felt so broke after buying this phone.
+
+The phone shop offered the cheapest price of all phone shops who sold this phone model. The salesman also gave me a tote bag with an earphone, USB cable \(like the one that I bought to connect the mouse\), screen protector, and a silicon phone case. This was worth for about 2,3 million rupiahs.
+
+How was my old phone? I sold my old phone in BEC too after I bought the new phone. I tried to go to Xiaomi Center because they said they could trade this old phone with money or a new Xiaomi phone but I didn’t bring the box of the phone \(a box that was given when I got the phone for the first time\). When I mumbled, there was a phone shop who asked me if I wanted to sell my phone. The phone shop guard gave me a very low price but since I was already tired to get a phone shop who wanted to buy my broken phone so yeah I accepted that.
+

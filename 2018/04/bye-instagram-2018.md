@@ -1,0 +1,16 @@
+---
+description: 'April 2, 2018'
+---
+
+# Bye Instagram 2018
+
+Today is the last day of Instagram 2018. Like in the last year, there is a closing event of Instagram 2018. This year’s theme is “Pico De La Victoria”. I’m not sure for the meaning but it means “Peak of Victory” in Spanish. Wow it’s really a good name. Also it’s different than all Instagram event that had ever held because every year Instagram closing event’s theme name using a flower name. Okay so let’s review this event.
+
+I didn’t join this year’s Instagram committee because I promised to myself to reduce my committee jobs. I had to admit this year was better in publication and documentation but still the same for the competitions. There were some new competitions but the participants didn’t increase. This was only my opinions, because I saw that some competitions were lack of participants. Maybe it was because we were already bored? The only faithful generation I thought was Assembly which was 2014 generation. They were almost in every competitions and they really play seriously so they could win. No wonder this generation won the champion again for having the most wins this year.
+
+This year I only joined in two kind of sports. They were chess and badminton. I won the second place in chess and was eliminated in mix doubles badminton. For chess competition I was really unlucky because I got black pieces which I didn’t like. The game was also not fun. At that time my opponent Senior Hilda was not focus because she was in hurry for the next competition \(I forgot what it is, I think it’s badminton\). Well this was the second time I lost to her since last year. And then for badminton competition, I was just a replacement for Afifah. Sorry guys I made us lost. I didn’t play badminton again since a long time I even didn’t know when.
+
+Since Instagram was collaborated with COIN, I will tell about this too. I didn’t remember the date but it was about Infographic Design Competition that I joined. This year’s theme was about “Internet of Things”. Actually I really liked this competition because designing was my passions. Also, the participants weren’t many and I thought I could win. But unfortunately, I couldn’t make a good one. It was because the rule said that the participants were prohibited to browse on internet. Every assets should be downloaded before. I knew this rule for a long time and I already prepared some of my assets too. But yeah I couldn’t do that without browsing! In the end I failed, even worse than last year’s.
+
+Actually I really didn’t want to join any competitions again this year and also for next year but WHY ME AGAIN \(especially for chess\)?? It was all because that generation forum. At that time, we should have to choose all of the delegations for all Instagram competitions. But instead, it was finished quickly because they chose based on the last year’s delegations. I thought that was another reason why were we always lack of participants. It was forced not based on own will. Sorry everyone who read this, I didn’t say this for hating Instagram but I was really sure this event was actually a good event. It was just not everyone like sports. This year was only the beginning. I actually saw the good chance since the publications and documentations were very awesome. Don’t worry, another good chance will come for sure.
+

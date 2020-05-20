@@ -1,0 +1,16 @@
+---
+description: 'January 15, 2018'
+---
+
+# Back Too Early
+
+Today I arrived back to Jatinangor. Maybe you wondered, why I went back too early? It’s not my intention, there was a problem with my scores.
+
+Last Saturday, when I checked my score on Operation System subject, I was shocked. OMG what had I done so my score was so bad? I got 36 and 40 for my midterm test and final term test. My tasks, practical study, and quizzes score were but didn’t help both of my bad scores to make me got B grade. It was my first time experienced the feeling of having C grade. I cried for a while, but then when I asked some people there were some of them who got C grade too because of midterm test and final term test score. One of them was Eko. I was suggested to meet him face to face instead asking via Whatsapp. But after we discussed more, first we asked on Whatsapp then if we couldn’t change the grade we met the lecturer. Eko tried to message first on Sunday. Luckily he was replied and got B grade because the lecturer didn’t check properly. Then I messaged too. But because it was already night, the lecturer replied he would check tomorrow morning or it meant today morning. That’s why I came to Jatinangor today.
+
+Arrived in Jatinangor, I got reply from the lecturer that almost all of my answers in midterm test and final term test were wrong. That’s why I got bad scores. OMG it was me who was dumb after all. But I didn’t give up. I would still meet him face to face. Alone. Because Eko already succeed getting a new grade. When I went to the lecturer’s office, I saw there were Rifqy, Rafid, and Rezy who wanted to recheck their Web Development score. Just info, the lecturer of Operation System subject and Web Development subject was same. Even though I was the only one who wanted to recheck my Operation System score, I was relieved I wasn’t the only one in the office. I had to wait for them rechecked their score. At that time I was given my midterm test and final term test answers paper from the lecturer. Well, as I said before, I was the dumb one here. All of my answers in the essay part were wrong when I checked them with the answers key. I was lucky I got some suggestions from Rifqy and Eko about how to get B grade by increasing my midterm test and final term test score. Finally I could get B grade with 68 as the final score. 68 was the least score range of B grade. Ah I didn’t care as long as I could get B grade. Thank God today the lecturer’s mood was very good. I thought I would get his anger if I asked to increase my score. If I could, I wanted to kneel down in front of him. OMG I was so happy!
+
+After that I went back to my temporary home. Damn, my toilet walls were covered with spiders web. I didn’t understand I only left for several days but it looked like I left for years. I also saw some dead worms on my floor. Ew. Luckily they were already dead. I couldn’t imagine if they were still alive.
+
+Finally after waiting for a long time I could meet Senior Ojan again. We talked and played a lot. I even planned to go to IndonesiaNEXT seminar on January 18th and didn’t want to go home too fast before the guardianship. In Jatinangor I could use free WiFi as I wanted, not like in my home which was limited only in nights. I hoped I didn’t regret my choice for living in Jatinangor longer.
+

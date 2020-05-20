@@ -1,0 +1,24 @@
+---
+description: 'December 18, 2016'
+---
+
+# Last Year Council of Padjadjaran’s Student Council 2016
+
+Last Year Council is a similar event like Great Deliberation of Himatif recently, but this event is held to evaluate the student council of a university, in this case Padjadjaran University. Damn you’re right, similar event and again, got a lot of problems.
+
+As usual, there was an open recruitment before the event committee was created. If no one shared this open recruitment I wouldn’t join this committee. Actually I didn’t really wish to be accepted because in that time I also waited for OKK closing event committee with same division I chose, publication and documentation division. But yeah I accepted in this committee not in OKK closing event.
+
+I had to admit that I hadn’t prepared yet for a big event like this because I’m still freshman. Or maybe it’s not only because of me, but also the seniors. I felt that there were just a few students who really cared about the future of their university’s student council. Mostly still had a mindset like “I want the student association of my department being the best!” or “I just want to focus on the student association of my department.” Both were the same.
+
+Okay let’s just begin the story. The first meeting was about discussing who would take photos, design posters, and make teaser video, and many more. I got a job to make teaser video and also helping others design posters. Seriously, I was really disappointed because in this publication and documentation division there was no one who could design or even have camera for taking photos. WTF this is why I didn’t like the idea of accepting everyone who joined because there were only a few who joined. You know, just filled a form with my name, student registration number \(Nomor Pokok Mahasiswa\), and the division that I wanted. There was no interview or asking about skills! Easy but stupid.
+
+After that meeting, we had some online meeting again. There were 6 people in this division but only 3 of us including me who usually responded the head of division \(Senior Acep\). It’s really driving me nuts. ARE YOU REALLY WANT TO CONTRIBUTE OR NOT? Please don’t be silent reader OMG.
+
+The fuck fact that I had to face was the one who got the job to design posters couldn’t make it. So the head of division asked me to make one. Not in the mood to design, I asked Zaenal to help me. He was one of the publication and documentation division in Great Deliberation of Himatif recently. So it’s perfect because I knew him could design. I even asked the head of division to invite him in our division for back up. But I felt so bad for him, because all the posters that he made were refused. The worse of all, the fixed poster was very awful. Not only me but a lot of Padjadjaran University’s students said it too. Low definition, blur, too dark, and many more. Ah I don’t want to show the poster here.
+
+The day’s coming. I was right. This event didn’t interest people to come. The event started from 6 AM and there was almost no one attended. Another fuck fact was only 4 of us who could come and I took the job of taking photos. What the hell? There was no use dividing jobs before. Oh yes by the way, the teaser video was cancelled. I didn’t even know what contents to add in the video and the head of division didn’t tell anything so I didn’t make it.
+
+Seriously, I really hated this committee even worse than Great Deliberation of Himatif. But I pretended to be okay. And I had to be \(not so really\) thankful to Kevin who asked me to buy Christmas gift together because with that reason I could run away from this committee. Same as Great Deliberation of Himatif, this event would end in the midnight or even morning so I ran away on 4 PM to meet Kevin \(Damn you Kevin who didn’t show up so I bought the gift alone\) by asking for dispensation to the head of committee because I had to have an additional class. I lied, who cares? I’m so done with this. My precious time was wasted and I felt guilty to Zaenal. Yeah even though I had to admit that if the head of committee \(Senior Ridlo\) knew I lied, I would break his heart. He was so kind to me. He gave free lunch and do chit-chat with me while I was bored in the middle of the event. He was also the only one who appreciated me while Senior Acep didn’t. I couldn’t imagine if I followed this event until midnight. Could we be a thing? LOL forgot it.
+
+Okay that’s it. Again, same as Great Deliberation of Himatif, this event was held for two days, in December 17th-18th. I didn’t come even for a second in the second day. I didn’t want to waste my time because tomorrow I’m going to have a final test!!! Wish me luck guys. And actually the other reason why I didn’t come because I wanted to go to Christmas party with Kevin. Blame me, I want to repent for never going to church since I lived in Jatinangor 😕
+
