@@ -32,5 +32,5 @@ That’s it. We successfully made the circuit even though I felt disappointed to
 
 ![](../../.gitbook/assets/image%20%284%29.png)
 
-By the way, during my practice for making circuits I did something silly. Can you see something wrong? Yea the breadboard looks melt. I remembered too how hot the IC 555 I had. \(In today’s project presentation we used IC from the lab to prevent something like this happened again LOL.\) Haha I must had the circuit connected to the electricity too long. Luckily the breadboard wasn’t be bought by me so I didn’t feel any regret :p
+By the way, during my practice for making circuits I did something silly. Can you see something wrong? Yea the breadboard looks melt. I remembered too how hot the IC 555 I had. \(In today’s project presentation we used IC from the lab to prevent something like this happened again LOL.\) Haha I must had the circuit connected to the electricity too long. Luckily the breadboard wasn’t be bought by me so I didn’t feel any regret 🤪
 
