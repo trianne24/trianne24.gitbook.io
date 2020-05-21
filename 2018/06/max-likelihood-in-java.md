@@ -4,7 +4,7 @@ description: 'June 8, 2018'
 
 # Max Likelihood in Java
 
- This post is written just to tell a useless project of me. Why is it useless? Because I only revised my senior’s project and collect it to the lecturer for my final test of operation research study. Max Likelihood is one of the methods that is used for … My lecturer asked all students in my class to make a computational program of any method using any programming language. I chose Max Likelihood method and coded in Java since I had references from my senior, Senior Umar. I revised the UI and cleaned the code so that my lecturer would not notice if this project was familiar. \(PLEASE DO NOT FOLLOW THIS NAUGHTY PLAN OF ME\)
+This post is written just to tell a useless project of me. Why is it useless? Because I only revised my senior’s project and collect it to the lecturer for my final test of operation research study. Max Likelihood is one of the methods that is used to estimate the parameters of a probability distribution by maximizing a likelihood function, so that under the assumed statistical model the observed data is most probable. My lecturer asked all students in my class to make a computational program of any method using any programming language. I chose Max Likelihood method and coded in Java since I had references from my senior, Senior Umar. I revised the UI and cleaned the code so that my lecturer would not notice if this project was familiar. \(PLEASE DO NOT FOLLOW THIS NAUGHTY PLAN OF ME\)
 
 Here’s a screenshot of the project:
 
