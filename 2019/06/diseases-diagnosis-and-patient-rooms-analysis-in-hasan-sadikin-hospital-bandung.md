@@ -12,5 +12,5 @@ This project was already announced as a final project of this subject for a long
 
 Data Warehouse is kinda similar with Soft Computing, it required a dataset. But for this project, we made the dataset by ourselves. Yes, the dataset was random and more like a sample data. We only needed to make some OLAP results like ROLLUP, DRILLDOWN, etc. for this project. The only thing that I hate from this project was the process of making the dataset. I literally typed one by one without any generator. The rest of it such as making the OLAP results was not really difficult. We were already taught well by Mrs. Intan and the lab assistants. The exam which we did yesterday wasn’t difficult as well, and mostly the questions were about our Data Warehouse project. I just didn’t understand why we had to submit the paper a day after Soft Computing. I wished Soft Computing was the last project rather than this project 🙃
 
-Anyway, check [this project](https://github.com/realicejoanne/datware-project) in my Github as always! Here’s the link. Thanks!
+Anyway, check [this project](https://github.com/realicejoanne/datware-project) in my Github as always! Thanks!
 
