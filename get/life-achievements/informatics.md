@@ -21,7 +21,7 @@ description: >-
 #### 2018
 
 * **Sekolahku Website Template** with Senior Ojan \(discont.\)
-* **Himatif App \(HDA v2.0\)** with DevCom for HDA Team \(discont.\)
+* **Himatif App \(HDA v2.0\)** with DevCom's HDA Team \(discont.\)
 * \*\*\*\*[**Digital Learning Content Repository**](../../2018/07/presenting-an-e-learning-website-to-a-school.md) ****for SMK Baabul Kamil Jatinangor with Shofiyyah and Mrs. Mira Suryani
 * \*\*\*\*[**SpotEvent App**](../../2018/09/its-not-the-end-of-spotevent.md) for IFEST 2018’s INTENTION in Android App Development Category with SIROP MARJAN Team
 * \*\*\*\*[**Monica App**](../../2018/11/gemastik-11.md) for GEMASTIK 11 in UX Design Category with Rock Bottom Team
