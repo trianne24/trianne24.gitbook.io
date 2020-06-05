@@ -6,11 +6,11 @@ description: 'January 17, 2020'
 
 Here’s the list of my JoJo rants.
 
-{% page-ref page="jojos-fans-ordinary-essay-part-1.md" %}
+{% page-ref page="jojo-1.md" %}
 
-{% page-ref page="../02/jojos-fans-ordinary-essay-2.md" %}
+{% page-ref page="../02/jojo-2.md" %}
 
-{% page-ref page="../02/jojo-fans-ordinary-adventure-part-3.md" %}
+{% page-ref page="../02/jojo-3.md" %}
 
 This post is actually not made on January 17. I put that date so that this post will be posted before the first part of my rants about JoJo. I know this is unrelated with my college life. This act could let me to do something stupid again that I will regret later so I promise I will only review JoJo. I won’t review IU, Allie X, Katy Perry, 1D, HC Andersen, RL Stine, Junji Ito, Yakitate!! Ja-Pan, Sims Freeplay, Rusty Lake, Ghibli, Marvel, or Star Wars. To be honest I share my rants about JoJo because I want to stop thinking JoJo for a second. By expressing what I think about it into writing, I will find a peace. I know this is curable like when I obsessed to IU, Allie X, Katy Perry, 1D, HC Andersen, RL Stine, Junji Ito, Yakitate!! Ja-Pan, JoJo, Freeplay, Rusty Lake, Otome, Ghibli, Marvel, or Star Wars before.
 
