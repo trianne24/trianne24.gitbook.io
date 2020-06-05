@@ -6,9 +6,9 @@ description: 'January 17, 2020'
 
 Here’s the list of my JoJo rants.
 
-{% page-ref page="jojos-fan-plain-adventure.md" %}
+{% page-ref page="jojos-fans-ordinary-essay-part-1.md" %}
 
-{% page-ref page="../02/jojos-fan-plain-adventure-2.md" %}
+{% page-ref page="../02/jojos-fans-ordinary-essay-2.md" %}
 
 {% page-ref page="../02/jojo-fans-ordinary-adventure-part-3.md" %}
 

@@ -283,9 +283,9 @@
 
 * [January 2020](2020/01/README.md)
   * [A Playlist of JoJo Essays](2020/01/a-playlist-of-jojo-essays.md)
-  * [JoJo Fan's Ordinary Essay Part 1](2020/01/jojos-fan-plain-adventure.md)
+  * [JoJo Fan's Ordinary Essay Part 1](2020/01/jojos-fans-ordinary-essay-part-1.md)
 * [February 2020](2020/02/README.md)
-  * [JoJo Fan's Ordinary Essay Part 2](2020/02/jojos-fan-plain-adventure-2.md)
+  * [JoJo Fan's Ordinary Essay Part 2](2020/02/jojos-fans-ordinary-essay-2.md)
   * [JoJo Fan's Ordinary Essay Part 3](2020/02/jojo-fans-ordinary-adventure-part-3.md)
 * [March 2020](2020/03/README.md)
   * [Looking For New Upgraders](2020/03/looking-for-new-upgraders.md)
