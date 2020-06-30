@@ -296,4 +296,6 @@
 * [May 2020](2020/05/README.md)
   * [Github Page Phase 1](2020/05/github-page-phase-1.md)
   * [Moving to Campus Dormitory](2020/05/moving-to-campus-dormitory.md)
+* [June 2020](2020/06/README.md)
+  * [My Existential Crisis Is Going Worse](2020/06/my-existential-crisis-is-going-worse.md)
 
