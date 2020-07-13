@@ -296,6 +296,9 @@
 * [May 2020](2020/05/README.md)
   * [Github Page Phase 1](2020/05/github-page-phase-1.md)
   * [Moving to Campus Dormitory](2020/05/moving-to-campus-dormitory.md)
+  * [Oh My Office Programs](2020/05/oh-my-office-programs.md)
 * [June 2020](2020/06/README.md)
-  * [My Existential Crisis Is Going Worse](2020/06/my-existential-crisis-is-going-worse.md)
+  * [Crazy Things That I Did...](2020/06/my-existential-crisis-is-going-worse.md)
+* [July 2020](2020/07/README.md)
+  * [I Wanna Break This Chain](2020/07/i-wanna-break-this-chain.md)
 
