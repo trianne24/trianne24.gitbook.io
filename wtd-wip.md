@@ -2,7 +2,6 @@
 
 ### Work in Progress
 
-* [ ] Internship report
 * [ ] Thesis writing
 * [ ] Thesis observation & research
 * [ ] Thesis project design & codes

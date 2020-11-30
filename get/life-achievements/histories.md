@@ -107,7 +107,7 @@ description: This is how I live… and still counting.
 * [**Favorite Winner**: SpotEvent App for IFEST 2018 Unpad’s INTENTION in Android App Development Category with Senior Ojan, Senior Umar, and Shofiyyah \(SIROP MARJAN Team\)](../../2018/09/its-not-the-end-of-spotevent.md)
 * [**2nd Winner**: Monica App for GEMASTIK 11 in UX Design Category with Rifqy and Raihan \(Rock Bottom Team\)](../../2018/11/gemastik-11.md)
 * [FIA \(Financial Assistant\) for CIMB 3D Conquest in Fintech Category with Senior Alwan, Senior Ojan, and Senior Ikhwanul \(PadjadjaranTech Team\)](../../2018/11/cimb-3d-conquest.md)
-* Huawei ICT Competition \(cancelled\)
+* Huawei ICT Competition \(canceled\)
 
 #### 2019
 
@@ -115,7 +115,7 @@ description: This is how I live… and still counting.
 * \*\*\*\*[KECE for GEMASTIK 12 in Smart City Category with Rifqy and Raihan \(Kahuna Laguna Team\)](../../2019/10/totally-done-with-gemastik.md)
 * [KCI for GEMASTIK 12 in Scientific IT Paper Category with Rifqy and Raihan \(Weenie Hut Team\)](../../2019/10/totally-done-with-gemastik.md)
 * [Indira for KataHack with Eres, Yulia, and Hilya \(Stranger Team\)](../../2019/10/strange-team-for-katahack.md)
-* [N/A for Indosat Ooredoo HackData with Eres, Yulia, and Hilya \(Stranger Team\)](../../2019/11/strangers-strike-again.md) \(cancelled\)
+* [N/A for Indosat Ooredoo HackData with Eres, Yulia, and Hilya \(Stranger Team\)](../../2019/11/strangers-strike-again.md) \(canceled\)
 
 #### 2020
 
