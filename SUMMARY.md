@@ -282,7 +282,6 @@
 ## Stories in 2020 <a id="2020"></a>
 
 * [January 2020](2020/01/README.md)
-  * [A Playlist of JoJo Essays](2020/01/a-playlist-of-jojo-essays.md)
   * [JoJo Fan's Ordinary Essay Part 1](2020/01/jojo-1.md)
 * [February 2020](2020/02/README.md)
   * [JoJo Fan's Ordinary Essay Part 2](2020/02/jojo-2.md)
@@ -291,7 +290,6 @@
   * [Looking For New Upgraders](2020/03/looking-for-new-upgraders.md)
   * [Gambling on NUSxTemasek Exchange](2020/03/gambling-on-nusxtemasek-exchange.md)
 * [April 2020](2020/04/README.md)
-  * [Make Us Free!](2020/04/free.md)
   * [Another Gambling on HIPSMU 2020](2020/04/another-gambling-on-hipsmu-2020.md)
 * [May 2020](2020/05/README.md)
   * [Github Page Phase 1](2020/05/github-page-phase-1.md)
@@ -299,6 +297,6 @@
   * [Oh My Office Programs](2020/05/oh-my-office-programs.md)
 * [June 2020](2020/06/README.md)
   * [Crazy Things That I Did...](2020/06/my-existential-crisis-is-going-worse.md)
-* [July 2020](2020/07/README.md)
-  * [I Wanna Break This Chain](2020/07/i-wanna-break-this-chain.md)
+* [July-December 2020](2020/july-december-2020/README.md)
+  * [Fighting Pat.](2020/july-december-2020/fighting-pat..md)
 
