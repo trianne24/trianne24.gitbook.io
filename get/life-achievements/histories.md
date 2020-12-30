@@ -119,7 +119,7 @@ description: This is how I live… and still counting.
 
 #### 2020
 
-* [Monica App for HIPSMU \(Hibah Inovasi Pre-Startup Mahasiwa Unpad\) 2020 with Rifqy and Raihan](../../2020/04/another-gambling-on-hipsmu-2020.md)
+* [Monica App for HIPSMU \(Hibah Inovasi Pre-Startup Mahasiwa Unpad\) 2020 with Rifqy and Raihan](../../2020/january-june-2020/another-gambling-on-hipsmu-2020.md)
 
 ## **Seminars/Trainings**
 
