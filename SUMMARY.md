@@ -294,5 +294,6 @@
 
 ## Stories in 2021
 
-* [January-June 2021](stories-in-2021/january-june-2021.md)
+* [January-June 2021](stories-in-2021/january-june-2021/README.md)
+  * [Thesis Rush](stories-in-2021/january-june-2021/thesis-rush.md)
 
