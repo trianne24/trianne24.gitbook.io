@@ -292,3 +292,7 @@
 * [July-December 2020](2020/july-december-2020/README.md)
   * [Fighting Pat.](2020/july-december-2020/fighting-pat..md)
 
+## Stories in 2021
+
+* [January-June 2021](stories-in-2021/january-june-2021.md)
+
