@@ -1,5 +1,5 @@
 ---
-description: 'December 17, 2016'
+description: December 17, 2016
 ---
 
 # Midnight With A Hungry Cat
@@ -10,7 +10,6 @@ This time I don’t want to tell how I got this temporary home. It’s so long a
 
 Tonight, I read my LINE chats outside my room to get WiFi connection to Office. I took my short chair outside so I didn’t have to stand up while using WiFi outside. Beside me, I saw a hungry cat was searching for foods in trash bin. Such a naughty cat. She/he made the trash bin fell and looked messy.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](<../../.gitbook/assets/image (17).png>)
 
 But luckily she/he was so cute so I took a photo of her/him. And when I direct my phone to her/him, she/he showed a shocked face like she/he was caught of being criminal LOL. After I sent her/his photo to my generation group, she/he just left me and the trash bin untidy. Haha what an irresponsible cat.
-

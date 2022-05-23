@@ -1,10 +1,10 @@
 ---
-description: 'December 4, 2016'
+description: December 4, 2016
 ---
 
 # Great Deliberation III of Himatif
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2016/12/myhome_1-791x1024.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2016/12/myhome\_1-791x1024.jpg)
 
 In this event committee I learned how we could define people by their contributions to the committee even I could hate people who previously I liked.
 
@@ -23,4 +23,3 @@ And now today is the last day of the Great Deliberation event. Yesterday was cra
 Umm… btw I’ve already unblock the head of the fundraising division and the girl who backstabbed me if you ask but the head of the committee still no because I need a lot of times to comfort myself to not argue with him. Seriously, since he nominated himself to the Himatif’s president election he had became so careless while talking to seniors. And yeah, I’m really tired to scold him because he is also stubborn.
 
 I had to admit this post is really seriously hard to explain yeah you can see how unnatural I am writing this story even though I am really surprised about how long this post is written. I don’t know is it because the anger I got by committing this event? I hope in the future I can control myself and don’t mix my mood into my job like this.
-

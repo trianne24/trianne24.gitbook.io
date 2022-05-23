@@ -1,10 +1,10 @@
 ---
-description: 'August 24, 2017'
+description: August 24, 2017
 ---
 
 # MIPA Bersatu 2017
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/08/fb.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/08/fb.jpg)
 
 I can say MIPA Bersatu 2017 was my very first committee in this semester. This event was held for introducing freshmen in Mathematics and Natural Sciences Faculty in Padjadjaran University to their new college. Today is the first day of MIPA Bersatu Part I. Before today, there was an opening event for MIPA Bersatu two days ago. And then there is still one day again tomorrow and also MIPA Bersatu Part II this November. Now let’s start from the opening event.
 
@@ -15,4 +15,3 @@ Now we got to tell about today. I went to the venue by feet. Alone. At dawn. Whe
 By times other committees were coming and we worked according our respective jobs. Ah yes, I forgot to introduce my job here. I was one of the staffs of publication and documentation division. I worked with Senior Rana, Fikri, Lia, Okat, Pange, Senior Iman, and Senior Umar. As publication and documentation division staff, I had to take some photos and videos about the event from the beginning until finish. Yeah it’s boring but I was lucky I was with my division because all of the people in my division were so nice and fun.
 
 LOL I didn’t know what to explain in this event because I had already felt it when I was a freshman. In short, there were some talk shows from notable people about leadership and joining organization. After that, the teaser of MIPA Bersatu Part II was showed. MIPA Bersatu Part II will be held about this November, not in the near time. Then everybody went home, including the committees. But this wasn’t the end. There will be the second day of MIPA Bersatu Part I tomorrow. I will tell it next time with the first day of CBS because they are in the same day.
-

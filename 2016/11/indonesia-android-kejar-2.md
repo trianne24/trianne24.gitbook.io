@@ -1,10 +1,10 @@
 ---
-description: 'November 12, 2016'
+description: November 12, 2016
 ---
 
 # Indonesia Android Kejar 2
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2016/09/460156-e1486145198930.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2016/09/460156-e1486145198930.jpg)
 
 Hello again folks! Now I want to share about my day in ITB or Bandung’s Institute of Technology. Whoa, what happened? No, no, I’m not moving to that university, just a visit. And this is not an ordinary visit, not because I might see my destined love there too, but I came to learn about Android as you can see in the post title. Indonesia Android Kejar 2. I didn’t translate that because it’s the name of the event and we shouldn’t change it. Okay so basically this event is opened for everyone who wants to learn about Android. They are 3 levels: beginner, intermediate, and advance. All of these levels will be taught by the chosen mentors who are expert in Android.
 
@@ -13,4 +13,3 @@ First of all, I got this nice offer from my seniors who also in Informatics Engi
 Fine enough talking about ITB, so the day was coming. It’s today! My girl friends and I went there together. We had to take DAMRI bus and public car to get there. Actually we were super duper late and when we arrived in the exact venue, the learning process was started. Guess what, not an hour yet in ITB and I’d already got bored. No free WiFi was one of the reasons why I was bored. The learning process was unsatisfied too. I didn’t know who or what I have to blame. It’s boring and I just wanted to go home. If there were no free foods, maybe I rather play games than try to understand the learning process. Thanks for the foods btw LOL.
 
 The learning process ended and I even didn’t meet my destined love. WTF in this boring mood I still wished for him coming up haha. So, that’s all about today. Btw actually I had to attend in two meetings, today and tomorrow, but because tomorrow I have to join Supercamp so I missed the second meeting. Yeah, not a bad choice, because days after now my girl friends and I found that there were a lot of attendance problems. Why the fuck I got a new e-mail again to choose a class???!!! I should get an e-mail to do the final project not like this. And it’s not only me who got it but there were a lot. Ah, I don’t fucking care anymore. I won’t complain anything because it’s wasting my time. Say good bye to certificate of IAK 2 ha.
-

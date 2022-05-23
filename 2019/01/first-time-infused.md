@@ -1,5 +1,5 @@
 ---
-description: 'January 16, 2019'
+description: January 16, 2019
 ---
 
 # First Time Infused
@@ -12,9 +12,8 @@ Today’s lunch was also delicious but there’s a problem. I got a stomachache 
 
 I felt sorry to Mr. Mario who escorted me to the hospital with his car because I couldn’t hold the vomit even in the car so I throwed up several times in his car’s trash bin. I was brought to the emergency room where the employees who were already arrived first already got their treatment. Not longer after that I was getting infused. That was my first time! The nurse took my blood and put a needle through my veins. At first it was painful because I felt that the position of the needle was unstable but when the intravenous fluids went through my blood I felt so refreshed.
 
-![](../../.gitbook/assets/unpad-blog_191231_0063.jpg)
+![](<../../.gitbook/assets/unpad blog\_191231\_0063.jpg>)
 
 After getting infused with two infusion bags, I got my medical record. The doctors said that my blood was one of the worst from the other employees. I might have to be infused again for the next two days. Whoa whoa whoa. I couldn’t imagine if I really rejected the offer to go to the hospital before. I took my medicines and I was relieved that the medical treatment was paid by Kargo but I felt shocked because the bill was too expensive and there were more than one employee including me!
 
-Finally, I was escorted back to the office because I left my bag there. After that, I went back home using GrabCar that was paid by Kargo. I made my parents got worried about me but fortunately I managed to tell them what happened. I chose to take one day off because of this. Lucky me, I didn’t have to be infused again for the next two days but I had to dronk a lot of water and take the medicines on time to keep my blood clean.
-
+Finally, I was escorted back to the office because I left my bag there. After that, I went back home using GrabCar that was paid by Kargo. I made my parents got worried about me but fortunately I managed to tell them what happened. I chose to take one day off because of this. Lucky me, I didn’t have to be infused again for the next two days but I had to drink a lot of water and take the medicines on time to keep my blood clean.

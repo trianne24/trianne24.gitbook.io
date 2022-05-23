@@ -1,10 +1,10 @@
 ---
-description: 'April 15, 2018'
+description: April 15, 2018
 ---
 
 # My First TOEFL Preparation and Test
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2018/04/cafe-724x1024.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2018/04/cafe.jpg)
 
 I really want to have TOEFL certification. TOEFL certification can make my CV cooler and also can help me find a certain scholarship. But this experience was really far from my expectations.
 
@@ -17,4 +17,3 @@ Finally today was come. I registered myself first then took a seat for the test.
 Umm actually this story was edited okay. So after several days waiting for the TOEFL score, I got an announcement to take the certificate but I had to pay again 😟 Damn, at first it looked not expensive but if it was included this certificate price I would say this was really bad. There was also another fact that I hated. The certificate was only valid for two years not forever. Yeah it looked rational but why only two years? Two years again I would be graduated and I had to take another TOEFL test again for searching a job. Again, I was really disappointed too when I heard that Himatif would have a TOEFL preparation and test too in the near time and the price was cheaper than this damn.
 
 That was my story about having TOEFL test. Oh yes I didn’t mention my score. My score was 537. Not bad but also not really good. People said a minimum good score was above 550 if I wanted to take an international scholarship or apply job in international company.
-

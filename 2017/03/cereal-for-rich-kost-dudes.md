@@ -1,5 +1,5 @@
 ---
-description: 'March 29, 2017'
+description: March 29, 2017
 ---
 
 # Cereal for Rich Kost Dudes
@@ -8,7 +8,6 @@ Sorry guys if you’re poor don’t read this food review! Haha I’m kidding. A
 
 The preparation is simple. You just need a bowl, hot water, and a sachet ofmilk powder. Make the milk first. After waiting for the hot milk cooler, you can add the cereal. I said this to prevent the cereal be mushy.
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](<../../.gitbook/assets/image (40).png>)
 
 Tada! Bon apetit 😄 WTF am I just writing…
-

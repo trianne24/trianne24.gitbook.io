@@ -1,5 +1,5 @@
 ---
-description: 'August 26, 2017'
+description: August 26, 2017
 ---
 
 # Black Martabak
@@ -8,7 +8,6 @@ Today I went to the opening ceremony of Informatics Festival aka IFest in Bale S
 
 When the sun was high I decided to go back to my temporary home because I didn’t want to get worse so I wanted to rest in my bed. The event hadn’t finished yet when I left but I wish everything will be okay till the end of IFest 2017.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/08/945427-300x169.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/08/945427.jpg)
 
 At night I went to Jatos with Mila and eat our dinner there. Feeling not satisfied yet, we bought a box of black martabak. Yeah, I wasn’t joking. The martabak color was black because it flavored oreo. Inside of the martabak there were a lot of cheese, making it more delicious. This martabak we bought was sold in a martabak stall near Jatos. It didn’t only sell oreo flavor, but also green tea, red velvet, pandan, and many more. I really recommended this place for buying various flavored martabak. That’s it for today. I went to sleep faster today because I had to wake up early tomorrow.
-

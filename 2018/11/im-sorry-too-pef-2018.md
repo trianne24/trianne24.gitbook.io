@@ -1,5 +1,5 @@
 ---
-description: 'November 4, 2018'
+description: November 4, 2018
 ---
 
 # I’m Sorry Too PEF 2018
@@ -10,13 +10,12 @@ PEF was a short name of Padjadjaran Education Festival. It’s held for 2 days e
 
 JEEZZZ, I envied this year’s Prabu. They were so much better than other Prabu that had ever held before while PEF was being degenerated this year. Even though I felt this year’s PEF was suck, but I felt so happy I could work together with my visual design division team. The head of visual design division was lost contact in the middle of the event preparation but all the staffs were still doing our best. Too bad I couldn’t go to the PEF events because I had to go to Surabaya for GEMASTIK.
 
-In PEF events, the visual design division team didn’t have anything to do like other division and because of that, they were taking many photos together. Since I wasn’t in the photos like other staffs at those days, I shared these photos of our first meeting and the photo from Jonas photo session \(without the head of visual design division\).
+In PEF events, the visual design division team didn’t have anything to do like other division and because of that, they were taking many photos together. Since I wasn’t in the photos like other staffs at those days, I shared these photos of our first meeting and the photo from Jonas photo session (without the head of visual design division).
 
-![](../../.gitbook/assets/hari-futufutu_200103_0004.jpg)
+![](<../../.gitbook/assets/HARI FUTUFUTU\_200103\_0004.jpg>)
 
-![](../../.gitbook/assets/hari-futufutu_200103_0017.jpg)
+![](<../../.gitbook/assets/HARI FUTUFUTU\_200103\_0017.jpg>)
 
-![](../../.gitbook/assets/jonaseu_200103_0001.jpg)
+![](../../.gitbook/assets/JONASEU\_200103\_0001.jpg)
 
 These photos were taken on March 4th, 2019. It’s the future from today LOL.
-

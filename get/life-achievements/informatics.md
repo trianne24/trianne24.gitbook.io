@@ -20,16 +20,16 @@ description: >-
 
 #### 2018
 
-* **Sekolahku Website Template** with Senior Ojan \(discont.\)
-* **Himatif App \(HDA v2.0\)** with DevCom's HDA Team \(discont.\)
-* \*\*\*\*[**Digital Learning Content Repository**](../../2018/07/presenting-an-e-learning-website-to-a-school.md) ****for SMK Baabul Kamil Jatinangor with Shofiyyah and Mrs. Mira Suryani
-* \*\*\*\*[**SpotEvent App**](../../2018/09/its-not-the-end-of-spotevent.md) for IFEST 2018’s INTENTION in Android App Development Category with SIROP MARJAN Team
-* \*\*\*\*[**Monica App**](../../2018/11/gemastik-11.md) for GEMASTIK 11 in UX Design Category with Rock Bottom Team
+* **Sekolahku Website Template** with Senior Ojan (discont.)
+* **Himatif App (HDA v2.0)** with DevCom's HDA Team (discont.)
+* ****[**Digital Learning Content Repository**](../../2018/07/presenting-an-e-learning-website-to-a-school.md) **** for SMK Baabul Kamil Jatinangor with Shofiyyah and Mrs. Mira Suryani
+* ****[**SpotEvent App**](../../2018/09/its-not-the-end-of-spotevent.md) for IFEST 2018’s INTENTION in Android App Development Category with SIROP MARJAN Team
+* ****[**Monica App**](../../2018/11/gemastik-11.md) for GEMASTIK 11 in UX Design Category with Rock Bottom Team
 * **Curhat ASI Webapp** with Mood Booster Team
 
 #### 2019
 
-* \*\*\*\*[**Indira Bot**](../../2019/10/strange-team-for-katahack.md) for KataHack 2019 with Stranger Team \(discont.\)
+* ****[**Indira Bot**](../../2019/10/strange-team-for-katahack.md) for KataHack 2019 with Stranger Team (discont.)
 
 ## College Projects
 
@@ -90,15 +90,15 @@ description: >-
 
 #### 2018
 
-* Java/Object Oriented Programming 2 \(Android\)
+* Java/Object Oriented Programming 2 (Android)
 * Prolog, Exsys, Matlab/Artificial Intelligence
 * C++/Cryptography
 * Arduino/Robotics
-* C\#/Computer Graphics
+* C#/Computer Graphics
 
 #### 2019
 
-* C\#/Digital Image Processing and Analysis
+* C#/Digital Image Processing and Analysis
 * C++/Algorithm Analysis
 * Matlab/Soft Computing
 * SQL/Data Warehouse
@@ -110,21 +110,20 @@ description: >-
 
 #### 2016
 
-* [Indonesia Android Kejar 2](../../2016/11/indonesia-android-kejar-2.md) \(failed\)
+* [Indonesia Android Kejar 2](../../2016/11/indonesia-android-kejar-2.md) (failed)
 
 #### 2017
 
 * Practical Study Web Development with Last Cake Team
 * Document Analysis with Mr. Erick Paulus
 * Himatif Database Apps
-* 3D Game Development with Wahaha Team \(cancelled\)
+* 3D Game Development with Wahaha Team (cancelled)
 * [**Dirarasa App**](../../2017/12/dirarasa-project.md) with Senior Midun and Senior Rio
 
 #### 2018
 
-* [Dicoding’s Google Scholarship](../../2018/12/too-bad-for-dicoding.md) \(failed\)
+* [Dicoding’s Google Scholarship](../../2018/12/too-bad-for-dicoding.md) (failed)
 
 #### 2019
 
-* **Eduratex App** for COIN 2019 in Android App Development Category with Taki Taki Team \(cancelled\)
-
+* **Eduratex App** for COIN 2019 in Android App Development Category with Taki Taki Team (cancelled)

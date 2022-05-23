@@ -1,5 +1,5 @@
 ---
-description: 'March 23, 2017'
+description: March 23, 2017
 ---
 
 # Infographic Design Competition for COIN
@@ -12,7 +12,6 @@ Well, actually I wasn’t interested to join those competitions because my inten
 
 Okay, at first I thought there wouldn’t be any problem, but when I entered the competition room, I was shocked because every participants had already known the theme! Damn, Angga didn’t tell me too the theme huh. The theme of the infographic was about technology in this era. Because I just knew the theme, I was in hurry searching for the infographic contents. I thought for some hits apps, selfies, and hoaxes but finally I chose selfies. Yeay, as you can see my design below.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/03/Infographic-of-Selfie_Patricia-Joanne_Cyber-439x1024.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/03/Infographic-of-Selfie\_Patricia-Joanne\_Cyber-439x1024.jpg)
 
 Soooo simple and minimalist right? And again, I used my favorite font of all: Bebas Neue. I always like simplicity and minimalist things, hope when I reuse Instagram again I could update my feeds with some minimalist ideas but for now I’m stuck to think something.
-

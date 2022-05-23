@@ -1,5 +1,5 @@
 ---
-description: 'November 24, 2019'
+description: November 24, 2019
 ---
 
 # These Cat Family Annoyed Me
@@ -12,9 +12,8 @@ Too bad I couldn't concentrate on my jobs because there was a big cat family tha
 
 There were three kittens which walked around their mom. I guessed they wanted to get something to eat from the Hoka Hoka Bento that the male student ate because his eating session was disturbed by the kittens LOL. They also disturbed me when I ate my food that I ordered before. I gave a bit of my katsu but the mom was very selfish LOL. The kittens didn't get any bite.
 
-![](../../.gitbook/assets/unpad-blog_191231_0025.jpg)
+![](<../../.gitbook/assets/unpad blog\_191231\_0025.jpg>)
 
 The wholesomeness didn't end there. There was also the cat dad LOLOLOL. All of them had the same color! Wait...is that the dad or one of the cat mom's kids which already got big? Cats definitely had the most complicated family issue. God, how did I suppose to work in this environment? It's like a cat cafe here. Damn, I can imagine if I go to a cat cafe. I will definitely get distracted by the cats!
 
 Too bad that suddenly I got dizzy and I decided to go back to my temporary home as soon as possible. I also heard that there won't be any lights out. Shit, I failed my mission to do my homework. I only came there to observe the life of a cat family. I couldn't help with the sickness that I felt so.. yeah this is so sad.
-

@@ -1,5 +1,5 @@
 ---
-description: 'December 10, 2018'
+description: December 10, 2018
 ---
 
 # Symphony Cabinet Photo Session
@@ -10,27 +10,26 @@ While waiting for some people to arrive, I bought es doger and siomay that were 
 
 We got our turn at about 9 PM. The photo session didn’t take a long time as long as the waiting time. These are the photos that we took. The first session was for Symphony Cabinet which was the Executive Board and Aegis Cabinet which was the Legislative Board.
 
-![](../../.gitbook/assets/foto-studio_181231_0002-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0002-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0003-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0003-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0004-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0004-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0005-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0005-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0001-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0001-1024x683.jpg)
 
 The second session was for Symphony Cabinet only.
 
-![](../../.gitbook/assets/foto-studio_181231_0006-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0006-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0007-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0007-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0008-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0008-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0009-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0009-1024x683.jpg)
 
-![](../../.gitbook/assets/foto-studio_181231_0010-1024x683.jpg)
+![](../../.gitbook/assets/Foto-Studio\_181231\_0010-1024x683.jpg)
 
 Actually my bureau planned to take photos together too but at that time Abie couldn’t come because he was already in his residence. Ah yes, it was true that the photo session didn’t involve every Himatif organizers of 2018. There were some of them who couldn’t come like Abie. It wasn’t the first time that the photo session wasn’t full team but last year’s too. So sad.
-

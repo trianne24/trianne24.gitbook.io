@@ -1,5 +1,5 @@
 ---
-description: 'November 5, 2017'
+description: November 5, 2017
 ---
 
 # Comparative Study to Gadjah Mada University in Jogjakarta
@@ -10,17 +10,17 @@ The next morning we were arrived in Jogjakarta, Gadjah Mada University for exact
 
 After that, the girls were having girls time during Friday’s shalat time. We were separated into two groups. I was in a group with Senior Rana, Senior Esprei, Senior Yuni, Senior Dewi, and Senior Ulfa. We were going to a gelato shop named Move On Café. The decors of the café was very cute. I took a photo of one of the interiors here.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/11/980860-169x300.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/11/980860.jpg)
 
 And this was the gelato looks that I bought. There were a lot of flavors here but I bought a cone of bubble gum and green tea flavor gelato.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/11/980856-300x169.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/11/980856.jpg)
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/11/980866-169x300.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/11/980866.jpg)
 
 Last, after we finished ate our gelatos, we took a photo of us in front of the café. This photo of me below was taken by Senior Yuni.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/11/977426-225x300.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/11/977426.jpg)
 
 After that we were going back to Gadjah Mada University and having the comparative study time. I had to admit I wasn’t really interested with them because the people from Gadjah Mada University who joined the comparative study were only a few even fewer than us. Just info, not all of Transformation Cabinet were going. And as I heard their story, the people in one cabinet were more than 300 people so I was disappointed they weren’t many as they said.
 
@@ -38,11 +38,10 @@ The next day we packed all things and prepared to go to the next destination. We
 
 After that we were going to Pangandaran Beach. It took a long time to go there. We arrived when the sun almost went down. We were playing the sand and took some photos there. I also had my sexy photos on the beach and the photos of a drawing I made on the sand. The photos below were only some of them.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/11/980857-300x169.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/11/980857.jpg)
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2017/11/980862-169x300.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2017/11/980862.jpg)
 
 At first I was joined with the same team like in Malioboro Street last night but then I was tired and I didn’t want to walk too far again so I just spent my time drawing on the sand alone. My feet were already dirty because of wet sand and my hair was very dry because of the air. I swore I would shampoo my hair after reaching Jatinangor.
 
 When the sun went down, we were going back to the bus to go to Jatinangor. We arrived on the next morning and then I walked by my feet to my temporary home. That’s all the things I did in Jogjakarta. Oh my God I can’t wait to tell my stories to everyone!
-

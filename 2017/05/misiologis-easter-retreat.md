@@ -1,5 +1,5 @@
 ---
-description: 'May 7, 2017'
+description: May 7, 2017
 ---
 
 # Misiologi’s Easter Retreat
@@ -14,9 +14,8 @@ Okay, let’s talk about what we did during retreat. We sang, we listened to the
 
 Oh yes, I had another best moment last night. I couldn’t believe that Senior Ruth was Mister Marbun’s daughter! Just info Mister Marbun was the former principal of 81 Senior High School where I studied. He was fired just because some people didn’t like Christian man like him being principal. Whoa, I heard a very different issue that he was involved in corruption. At that night, Mora and I listened a lot about Senior Ruth’s father alias our beloved former principal. Life in 81 Senior High School was better in his hand rather than after he was fired. By the way, Mora was actually my senior who also studied in 81 Senior High School but he was just accepted in Physics Major on the same year like me. Another info, Mister Marbun was fired last year which meant the year when I graduated. I was really disappointed with my senior high school because of the new principal but I didn’t want to tell a lot why here.
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](<../../.gitbook/assets/image (52).png>)
 
 The next day alias today, we had an egg searching game. I didn’t get any egg haha. We also had an outdoor game for teams. I was in yellow team and again I didn’t win at all LOL. After that we took a lot of photos in some nice places near the villa. The photo above was my favorite photo in the forest near the villa.
 
 Finally we prepared to go back home. But unfortunately it was raining so we were all wet before getting inside the public transportation that we used before. Yeah, that’s it for the retreat activities! Thank God we all safely arrived in Jatinangor and went back to each others’ home.
-

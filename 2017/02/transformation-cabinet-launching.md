@@ -1,5 +1,5 @@
 ---
-description: 'February 24, 2017'
+description: February 24, 2017
 ---
 
 # Transformation Cabinet Launching
@@ -18,9 +18,8 @@ The Instagram’s meeting talked about the tagline for the event. The coordinati
 
 Because I attended those meetings, I couldn’t watch the event from the beginning till the end, just the main event where all departments were introduced. Finally, when the event was finished I directly went back to my temporary home with Fahmi. Yeah, I didn’t take a lot of photos like others because I didn’t want to go home alone and in that time there was only Fahmi. But there was a photo which I thought was my best shot. Tadaa…
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](<../../.gitbook/assets/image (27).png>)
 
-Yes, you’re right I was wearing my Hector hoodie for this event because the dresscode of this event should be tosca \(blue-green\) colored and the only one tosca piece I had was my Hector hoodie. Hoho.
+Yes, you’re right I was wearing my Hector hoodie for this event because the dresscode of this event should be tosca (blue-green) colored and the only one tosca piece I had was my Hector hoodie. Hoho.
 
 Thanks to Internal Relation Department for today! Being the part of faculty’s Student Executive Board is exhausting but satisfied guarantee. I hope for the best in this year of Transformation!
-

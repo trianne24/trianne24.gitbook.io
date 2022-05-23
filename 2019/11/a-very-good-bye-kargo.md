@@ -1,5 +1,5 @@
 ---
-description: 'November 8, 2019'
+description: November 8, 2019
 ---
 
 # A Very Good Bye, Kargo
@@ -20,7 +20,6 @@ Because I was already too tired so I gambled and went to Grand Lucky Market inst
 
 I gave back the macbook to the HR team. I didn't reset the OS but at least I erased all of my documents there. I also lost my access to the office email, Atlassian, and Microsoft Teams. I succeeded in talking with some of my work colleagues who hadn't left yet but I didn't have much time since it was already night and I wanted to go back to Jatinangor immediately. I went to the bus terminal with Giovanka for the last time and I was lucky to find him when he wanted to go home LOL. Goodbye my workplace crush, I hope you don't forget me.
 
-![](../../.gitbook/assets/unpad-blog_191231_0036.jpg)
+![](<../../.gitbook/assets/unpad blog\_191231\_0036.jpg>)
 
 I managed to reach Primajasa pool on time but damn there were a lot of people there. I didn't know why because there wasn't any long holiday or anything. I had to queue up to catch the bus. At first I was patient but around 9 PM I decided to cut my queue by choosing to sit in the smoking seat area of the bus. Luckily, there were some good people who let me sit in the normal seat area. I felt bad for the person who gave me the seat though. I slept in the bus for a while and finally reached Jatinangor safely.
-

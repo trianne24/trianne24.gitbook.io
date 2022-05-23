@@ -1,10 +1,10 @@
 ---
-description: 'August 29, 2016'
+description: August 29, 2016
 ---
 
 # Making Mushy Spaghetti
 
-First, I want to tell that even though this post is in “Perbaikan gizi” category or in English we say as nutrition improving in my temporary home \(kost\), the reality that will be happened is opposite of it.
+First, I want to tell that even though this post is in “Perbaikan gizi” category or in English we say as nutrition improving in my temporary home (kost), the reality that will be happened is opposite of it.
 
 I’ve been living in my temporary home just about a month and I’ve already been tired order foods so I want to be a good ‘kost survivor’ by trying something new like today. A few days ago, I bought uncooked spaghetti from a supermarket. Of course I also bought the ready-to-eat spaghetti sauce. And now it’s time to cook it.
 
@@ -18,13 +18,12 @@ THAT’S WHEN I REALIZED I DID SOMETHING UNFORGIVEN.
 
 I left my cooked spaghetti in the rice cooker along with the boiled water. And guess what happened in the next day?
 
-My. Precious. Spaghetti. Is. Too. Mushy. \(Spaghetti aing jadi lembek pisan.\)
+My. Precious. Spaghetti. Is. Too. Mushy. (Spaghetti aing jadi lembek pisan.)
 
 Still wanna try to eat, so I keep bringing it for my lunch. And I cancel my plan to save for my dinner but I better eat it for my breakfast so it doesn’t get worse  in night.
 
 This is the photo of the disaster.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](<../../.gitbook/assets/image (8).png>)
 
-Okay. I’m done of spaghetti. No more \(mushy\) spaghetti again. Ever.
-
+Okay. I’m done of spaghetti. No more (mushy) spaghetti again. Ever.

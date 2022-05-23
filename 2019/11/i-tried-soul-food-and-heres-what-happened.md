@@ -1,10 +1,10 @@
 ---
-description: 'November 18, 2019'
+description: November 18, 2019
 ---
 
 # Soul Food and Mentai
 
-I found an unique food online delivery service on Instagram from an official LINE account. I forgot what's the official LINE account specifically but it should be Unpad related like Pesan Anak Unpad \(Unpad Students' Messages\) Official Account. The name of the food online delivery service was Prim n Phil. The food they sold was called “soul food”. I am a bad explainer but soul food is Southern food. It was cooked traditionally by African-Americans in South America.
+I found an unique food online delivery service on Instagram from an official LINE account. I forgot what's the official LINE account specifically but it should be Unpad related like Pesan Anak Unpad (Unpad Students' Messages) Official Account. The name of the food online delivery service was Prim n Phil. The food they sold was called “soul food”. I am a bad explainer but soul food is Southern food. It was cooked traditionally by African-Americans in South America.
 
 I was interested in that so I saved the Whatsapp number of Prim n Phil and tried to order it several days later. They served a pre order system. I ordered a crispy chicken package with creamy spinach and mushroom + cheese sauce as the custom options. I also upgraded the package so that I could get mashed potatoes as the extra food. As a buyer of the food package I also got a bottle of coffee. To be honest, this method of ordering was uncomfortable. They delivered the food at noon when I had a class so it's really bad timing. I could eat it after class which was at the generation meeting to discuss the idea for IFFD generation performance.
 
@@ -12,7 +12,6 @@ This food was definitely delicious. The portion was also big enough and worth an
 
 The second food that I wanted to review was kinda similar in the ordering method. This was bought a long time ago but I forgot if I ever reviewed this or not. I already knew Yum! My Mentai for a long time and I also found this from an official LINE account, the same way like Prim n Phil. One day there was a promotion to buy 1 get 1 so I asked Mila to be my partner. The first mentai was for Mila and the free one was for me. Even though I got the free one which I couldn't choose, I still splitted the price in the same amounts with Mila. This food online delivery service was actually worse than Prim n Phil. Prim n Phil still wanted to deliver the food to me without any additional delivery price but Yum! My Mentai used GoSend and I had to pay for the GoSend delivery service on my own. Because of that, I decided to visit the restaurant by myself to pick the mentais without knowing that it's actually just a temporary home. Yum! My Mentai was handled by one person and she became the contact person and also the chef. That's why she couldn't deliver the food by herselves.
 
-![](../../.gitbook/assets/unpad-blog_191231_0022.jpg)
+![](<../../.gitbook/assets/unpad blog\_191231\_0022.jpg>)
 
 The mentai was a kind of food that I never ate before so yeah this was delicious. Too bad the price was still pricey even though I ordered when there was a promotion. The portion was not big but she gave the toppings and mozzarella sauce without being \*pelit. I could taste the toppings and mozzarella sauce till the last spoon. Like Prim n Phil, I doubted that I would order this again in the future. It's pricey and the ordering method was difficult. Well at least I could taste heavenly food like this in Jatinangor. This was my new experience. Can't wait to be rich to taste food like this everyday LOL.
-

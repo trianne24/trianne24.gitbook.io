@@ -1,10 +1,10 @@
 ---
-description: 'May 5, 2018'
+description: May 5, 2018
 ---
 
 # Technopreneur 2018
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2018/05/myhome.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2018/05/myhome.jpg)
 
 Dear Technopreneur, thanks to this event I could be close with someone special. This year, I took again this committee for showing you my gratefulness. Luckily, Teguh as the project officer chose me as his secretary. Although I was the one who asked it to be secretary in Technopreneur but without him proposed me I couldn’t get that position. I also thanked Dzakia as the head of Professions Department which is trusting me to have a high position in one of her department programs. I had a big issue with some people who couldn’t trust me since [those days](../../2017/12/gloomy-week.md) but Dzakia really helped me.
 
@@ -25,4 +25,3 @@ One of the speakers which was came from E-mas gave free gold for real in the eve
 After the event was ended, as usual we had to evaluate our jobs. Then I went back to Jatinangor with Abie’s car. Seriously I expected to go back with Senior Ojan like on last year’s but yeah it was just expectation. He came and went back to his house with his younger brother. Actually he wanted to go back with me but the traffic was busy so I chose Abie instead. It was better than making he came back to Technopreneur just because my ego.
 
 Abie’s car was full with logistic needs. There were also Vega, Rey, Rafid, and Ucup. I even couldn’t sit well because I had to hold an ice box on my lap. In the middle of the journey, we visited McDonald’s via drive-thru. After that, one by one of us were repatriated by Abie. Thanks a lot Abie! And yeah, thanks a lot too Technopreneur!
-

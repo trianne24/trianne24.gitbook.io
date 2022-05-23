@@ -1,5 +1,5 @@
 ---
-description: 'August 27, 2018'
+description: August 27, 2018
 ---
 
 # Trying Sushi Delivery
@@ -8,7 +8,6 @@ I feel bored with any kind of food in Jatinangor that time. Then I remembered th
 
 I bought the yakizu roll menu. The delivery was free and it didn’t take a long time to wait for it. This yakizu roll menu has 8 pieces of sushi with chicken katsu, chicken teriyaki, nori and mayonnaise sauce on them. The price is also quite cheap. Actually I chose this menu because this is one of the cheapest menu LOL.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](<../../.gitbook/assets/image (5).png>)
 
 I can say I would like to buy from Sushi Ciseke again next time. Although this menu is not recommended for an empty stomach since it’s not filling up the tummy. In the end, I bought another snack type food rather than carbohydrates. I asked Mila, who was in Jatos at that time, to buy crepes in Jatos for me. Seriously Pat you need to stop!
-

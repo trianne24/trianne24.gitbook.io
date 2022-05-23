@@ -1,5 +1,5 @@
 ---
-description: 'February 6, 2018'
+description: February 6, 2018
 ---
 
 # Another Graduation Day to Come
@@ -12,11 +12,10 @@ After the graduation ceremony in Grha Sanusi hall was finished, me and the other
 
 After I had done this duty, I directly left Himatif crowds and went to other place. I met Senior Tiar, Senior Rifka, and Senior Wiwi and went to Senior Yuli’s graduation. We took a photo together. If only there were Senior Aleza at that time, we would be a complete Media Department family of Transformation Cabinet.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2018/02/55663-300x169.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2018/02/55663.jpg)
 
 By the way, I hadn’t mentioned the seniors I knew that were graduated today right? They were Senior Lukman as the president of Transformation Cabinet, Senior Yulian as the vice president of Transformation Cabinet, Senior Abid as the head of sector who led publication and documentation in MIPA Bersatu 2017, Senior Yuli that I mentioned above, and Senior Friscilia as my mentor.
 
-![](http://blogs.unpad.ac.id/realicejoanne/files/2018/02/55665-300x169.jpg)
+![](https://sites.unpad.ac.id/realicejoanne/wp-content/uploads/sites/21214/2018/02/55665.jpg)
 
 After I finished had fun with Media Department family of Transformation Cabinet, I met Viona. Viona was also one of Senior Friscilia’s mentees like me. Actually I almost had to go back to Jatinangor because Senior Friscilia looked like very busy and I couldn’t meet her. She was quite popular LOL even Viona which was in the same department with Senior Friscilia couldn’t talk for just a little time with her. While waiting the opportunity came, Viona and me bought a teddy bear and flowers for Senior Friscilia. After that finally we could met and took a photo together. That was all for today. After that I went back to Jatinangor with the one and only my man. Of course with a motorcycle LOL not public cars like the last graduation day I attended.
-
