@@ -1,22 +1,20 @@
 # Table of contents
 
 * [👋 Hello, I'm Pat.](README.md)
-* [📄 WTD/WIP](wtd-wip.md)
 
-## Get to Know Me <a id="get"></a>
+## Get to Know Me <a href="#get" id="get"></a>
 
 * [Life Achievements](get/life-achievements/README.md)
   * [Histories](get/life-achievements/histories.md)
   * [Informatics](get/life-achievements/informatics.md)
 * [CV/Portfolio](get/cv-portfolio.md)
 * [Social Links](get/contacts.md)
-* [\#100Workout Challenges](get/100workout-challenges.md)
 
-## Stories in 2016 <a id="2016"></a>
+## Stories in 2016 <a href="#2016" id="2016"></a>
 
 * [August 2016](2016/08/README.md)
   * [Hello World!](2016/08/hello-world.md)
-  * [\(This should be\) Categories](2016/08/this-should-be-categories.md)
+  * [(This should be) Categories](2016/08/this-should-be-categories.md)
   * [Quick Introduction of Padjadjaran’s Informatics Engineering](2016/08/quick-introduction-of-padjadjarans-informatics-engineering.md)
   * [Making Mushy Spaghetti](2016/08/making-mushy-spaghetti.md)
 * [September 2016](2016/09/README.md)
@@ -41,7 +39,7 @@
   * [Last Year Council of Padjadjaran’s Student Council 2016](2016/12/last-year-council-of-padjadjarans-student-council-2016.md)
   * [Come Back Home](2016/12/come-back-home.md)
 
-## Stories in 2017 <a id="2017"></a>
+## Stories in 2017 <a href="#2017" id="2017"></a>
 
 * [January 2017](2017/01/README.md)
   * [Triple Jobs Challenge](2017/01/triple-jobs-challenge.md)
@@ -61,7 +59,7 @@
 * [March 2017](2017/03/README.md)
   * [Instagram 2017](2017/03/instagram-2017.md)
   * [First WoI of the Year](2017/03/first-woi-of-the-year.md)
-  * [Transformation Cabinet Video Profile \(+ Grand Design!\)](2017/03/transformation-cabinet-video-profile-+-grand-design.md)
+  * [Transformation Cabinet Video Profile (+ Grand Design!)](2017/03/transformation-cabinet-video-profile-+-grand-design.md)
   * [Still Instagram 2017: Me in Chess Tournament](2017/03/still-instagram-2017-me-in-chess-tournament.md)
   * [Pray for Satay](2017/03/pray-for-satay.md)
   * [Upgrading My Life](2017/03/upgrading-my-life.md)
@@ -78,7 +76,7 @@
   * [Nuit de l’Art Amaryllis](2017/04/nuit-de-lart-amaryllis.md)
   * [Second Mabok?](2017/04/second-mabok.md)
   * [Such an Exhausting Day](2017/04/such-an-exhausting-day.md)
-  * [Medinfo Day \(+Third Mabok\)](2017/04/medinfo-day-+third-mabok.md)
+  * [Medinfo Day (+Third Mabok)](2017/04/medinfo-day-+third-mabok.md)
   * [Fading LED Project](2017/04/fading-led-project.md)
   * [Scholarship Seminar & Prepare For Future](2017/04/scholarship-seminar-and-prepare-for-future.md)
   * [Comparative Study from Brawijaya University](2017/04/comparative-study-from-brawijaya-university.md)
@@ -102,7 +100,7 @@
 * [July 2017](2017/07/README.md)
   * [Google I/O Extended 2017 Depok](2017/07/google-i-o-extended-2017-depok.md)
 * [August 2017](2017/08/README.md)
-  * [I Don’t Want To Go Back :\(](2017/08/i-dont-want-to-go-back.md)
+  * [I Don’t Want To Go Back :(](2017/08/i-dont-want-to-go-back.md)
   * [Crying Over You](2017/08/crying-over-you.md)
   * [MIPA Bersatu 2017](2017/08/mipa-bersatu-2017.md)
   * [CBS Day 1](2017/08/cbs-day-1.md)
@@ -128,7 +126,7 @@
   * [MIPA Bersatu 2017 Part II](2017/11/mipa-bersatu-2017-part-ii.md)
   * [The Evaluation and Award for Executive Board of Himatif Part II](2017/11/the-evaluation-and-award-for-executive-board-of-himatif-part-ii.md)
   * [IFFD 2017: Back To The History](2017/11/iffd-2017-back-to-the-history.md)
-  * [IMAZINE \#4](2017/11/imazine-4.md)
+  * [IMAZINE #4](2017/11/imazine-4.md)
   * [MIPA Mandiri 2017](2017/11/mipa-mandiri-2017.md)
 * [December 2017](2017/12/README.md)
   * [Gloomy Week](2017/12/gloomy-week.md)
@@ -139,7 +137,7 @@
   * [Image Gallery for Ciburuy Desk Application](2017/12/image-gallery-for-ciburuy-desk-application.md)
   * [See You Later Jatinangor](2017/12/see-you-later-jatinangor.md)
 
-## Stories in 2018 <a id="2018"></a>
+## Stories in 2018 <a href="#2018" id="2018"></a>
 
 * [January 2018](2018/01/README.md)
   * [Bad day.](2018/01/bad-day..md)
@@ -156,13 +154,13 @@
   * [A Failed Diet Plan](2018/04/a-failed-diet-plan.md)
   * [KitCake from Cakekinian Review](2018/04/kitcake-from-cakekinian-review.md)
   * [Tooth Aches Diagnosis Expert System](2018/04/tooth-aches-diagnosis-expert-system.md)
-  * [Collecting Coins \(FREE CRYPTOS WITHOUT INVEST NOT CLICKBAIT\)](2018/04/collecting-coins-free-cryptos-without-invest-not-clickbait.md)
+  * [Collecting Coins (FREE CRYPTOS WITHOUT INVEST NOT CLICKBAIT)](2018/04/collecting-coins-free-cryptos-without-invest-not-clickbait.md)
 * [May 2018](2018/05/README.md)
   * [DIY Gifts For Male?](2018/05/diy-gifts-for-male.md)
   * [Technopreneur 2018](2018/05/technopreneur-2018.md)
   * [Sundanese Script Learning and Quiz Android App](2018/05/sundanese-script-learning-and-quiz-android-app.md)
-  * [The New Page \(and The Last Page for Me\)](2018/05/the-new-page-and-the-last-page-for-me.md)
-  * [Food &gt; Project](2018/05/food-greater-than-project.md)
+  * [The New Page (and The Last Page for Me)](2018/05/the-new-page-and-the-last-page-for-me.md)
+  * [Food > Project](2018/05/food-greater-than-project.md)
   * [Network Simulation in Dentistry Faculty of Padjadjaran University](2018/05/network-simulation-in-dentistry-faculty-of-padjadjaran-university.md)
   * [Arabic Script Identification Program with MATLAB](2018/05/arabic-script-identification-program-with-matlab.md)
 * [June 2018](2018/06/README.md)
@@ -197,7 +195,7 @@
   * [I Become Famous](2018/11/i-become-famous.md)
   * [Imazine 5](2018/11/imazine-5.md)
   * [I Spoiled Too Much My Flaws](2018/11/i-spoiled-too-much-my-flaws.md)
-  * [Rubik’s Cube using C\#](2018/11/rubiks-cube-using-c.md)
+  * [Rubik’s Cube using C#](2018/11/rubiks-cube-using-c.md)
 * [December 2018](2018/12/README.md)
   * [I Just Wanna Be Part Of Your Simfoni!](2018/12/i-just-wanna-be-part-of-your-simfoni.md)
   * [Not For Farting App](2018/12/not-for-farting-app.md)
@@ -213,7 +211,7 @@
   * [Title Not Defined Yet](2018/12/title-not-defined-yet.md)
   * [Too Bad For Dicoding](2018/12/too-bad-for-dicoding.md)
 
-## Stories in 2019 <a id="2019"></a>
+## Stories in 2019 <a href="#2019" id="2019"></a>
 
 * [January 2019](2019/01/README.md)
   * [Adventure of Intern Seeking](2019/01/untitled.md)
@@ -277,23 +275,15 @@
   * [Monica 2.1](2019/12/monica-2.1.md)
   * [Classification of Movie Reviews in IMDb](2019/12/classification-of-movie-reviews-in-imdb.md)
   * [Good Bye College Life](2019/12/good-bye-college-life.md)
-  * [\#IULovePoeminJKT](2019/12/iulovepoeminjkt.md)
+  * [#IULovePoeminJKT](2019/12/iulovepoeminjkt.md)
 
-## Stories in 2020 <a id="2020"></a>
+## Stories in 2020 <a href="#2020" id="2020"></a>
 
-* [January-June 2020](2020/january-june-2020/README.md)
+* [January-December 2020](2020/january-june-2020/README.md)
   * [Looking For New Upgraders](2020/january-june-2020/looking-for-new-upgraders.md)
   * [Gambling on NUSxTemasek Exchange](2020/january-june-2020/gambling-on-nusxtemasek-exchange.md)
   * [Another Gambling on HIPSMU 2020](2020/january-june-2020/another-gambling-on-hipsmu-2020.md)
   * [Github Page Phase 1](2020/january-june-2020/github-page-phase-1.md)
   * [Moving to Campus Dormitory](2020/january-june-2020/moving-to-campus-dormitory.md)
   * [Oh My Office Programs](2020/january-june-2020/oh-my-office-programs.md)
-  * [Crazy Things That I Did...](2020/january-june-2020/my-existential-crisis-is-going-worse.md)
-* [July-December 2020](2020/july-december-2020/README.md)
-  * [Fighting Pat.](2020/july-december-2020/fighting-pat..md)
-
-## Stories in 2021
-
-* [January-June 2021](stories-in-2021/january-june-2021/README.md)
-  * [Thesis Rush](stories-in-2021/january-june-2021/thesis-rush.md)
-
+  * [Fighting Pat.](2020/january-june-2020/fighting-pat..md)

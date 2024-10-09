@@ -22,14 +22,14 @@ description: >-
 
 * **Sekolahku Website Template** with Senior Ojan (discont.)
 * **Himatif App (HDA v2.0)** with DevCom's HDA Team (discont.)
-* ****[**Digital Learning Content Repository**](../../2018/07/presenting-an-e-learning-website-to-a-school.md) **** for SMK Baabul Kamil Jatinangor with Shofiyyah and Mrs. Mira Suryani
-* ****[**SpotEvent App**](../../2018/09/its-not-the-end-of-spotevent.md) for IFEST 2018’s INTENTION in Android App Development Category with SIROP MARJAN Team
-* ****[**Monica App**](../../2018/11/gemastik-11.md) for GEMASTIK 11 in UX Design Category with Rock Bottom Team
+* [**Digital Learning Content Repository**](../../2018/07/presenting-an-e-learning-website-to-a-school.md) for SMK Baabul Kamil Jatinangor with Shofiyyah and Mrs. Mira Suryani
+* [**SpotEvent App**](../../2018/09/its-not-the-end-of-spotevent.md) for IFEST 2018’s INTENTION in Android App Development Category with SIROP MARJAN Team
+* [**Monica App**](../../2018/11/gemastik-11.md) for GEMASTIK 11 in UX Design Category with Rock Bottom Team
 * **Curhat ASI Webapp** with Mood Booster Team
 
 #### 2019
 
-* ****[**Indira Bot**](../../2019/10/strange-team-for-katahack.md) for KataHack 2019 with Stranger Team (discont.)
+* [**Indira Bot**](../../2019/10/strange-team-for-katahack.md) for KataHack 2019 with Stranger Team (discont.)
 
 ## College Projects
 
