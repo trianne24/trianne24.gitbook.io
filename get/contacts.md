@@ -1,4 +1,4 @@
-# Social Links
+# 🔗 Social Links
 
 Personal Site: [https://trianne24.github.io/](https://trianne24.github.io/)
 

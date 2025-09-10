@@ -4,10 +4,9 @@
 
 ## Get to Know Me <a href="#get" id="get"></a>
 
-* [Life Achievements](get/life-achievements/README.md)
-  * [💼 Histories](get/life-achievements/histories.md)
-  * [💻 Informatics](get/life-achievements/informatics.md)
-* [Social Links](get/contacts.md)
+* [💼 Life History](get/histories.md)
+* [💻 IT Projects](get/informatics.md)
+* [🔗 Social Links](get/contacts.md)
 
 ## Stories in 2016 <a href="#2016" id="2016"></a>
 
