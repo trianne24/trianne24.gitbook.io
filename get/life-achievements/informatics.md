@@ -4,19 +4,19 @@ description: >-
   work and self-proposed projects.
 ---
 
-# Informatics
+# 💻 Informatics
 
 ## Work Projects
 
-> Projects I got from work experiences.
+<mark style="color:$info;">Projects I got from work experiences.</mark>
 
 #### 2019
 
-* Kargo Landing Page Revamp Project
+* **Kargo Landing Page Revamp Project**
 
 ## Self-Proposed Projects
 
-> Projects that self-proposed by me or the team leader who invited me, including the projects for competitions.
+<mark style="color:$info;">Projects that self-proposed by me or the team leader who invited me, including the projects for competitions.</mark>
 
 #### 2018
 
@@ -33,7 +33,7 @@ description: >-
 
 ## College Projects
 
-> Projects for midterm or final score of my college courses. Check the Github links list [here](https://gist.github.com/944406d0d878f80c8693848c0e0fdba0).
+<mark style="color:$info;">Projects for midterm or final score of my college courses. Check the Github links list</mark> [<mark style="color:$info;">here</mark>](https://gist.github.com/944406d0d878f80c8693848c0e0fdba0)<mark style="color:$info;">.</mark>
 
 #### 2016
 
@@ -72,9 +72,13 @@ description: >-
 * **Machine Learning:** [Sentiment Analysis of Tebak Gambar Game in Google Playstore’s Reviews using Naive Bayes Algorithm](../../2019/12/sentiment-analysis-of-tebak-gambar-games-reviews.md)
 * **Machine Learning:** [Classification of Movie Reviews in IMDb using Machine Learning's CNN Method](../../2019/12/classification-of-movie-reviews-in-imdb.md)
 
+#### 2020
+
+* [**Kandaga Unpad Revamp Project**](../../2020/january-june-2020/about-my-thesis.md) for undergraduate thesis
+
 ## College Archives
 
-> Archives of codes that I learnt in my college, grouped by the courses. Check the Github links list [here](https://gist.github.com/944406d0d878f80c8693848c0e0fdba0).
+<mark style="color:$info;">Archives of codes that I learned in my college, grouped by the courses. Check the Github links list</mark> [<mark style="color:$info;">here</mark>](https://gist.github.com/944406d0d878f80c8693848c0e0fdba0)<mark style="color:$info;">.</mark>
 
 #### 2016
 
@@ -106,7 +110,7 @@ description: >-
 
 ## Other Projects
 
-> Projects which I only contributed a little or failed/cancelled self-proposed projects by me or the team leader who invited me.
+<mark style="color:$info;">Projects which I only contributed a little or failed/cancelled self-proposed projects by me or the team leader who invited me.</mark>
 
 #### 2016
 

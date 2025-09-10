@@ -5,9 +5,8 @@
 ## Get to Know Me <a href="#get" id="get"></a>
 
 * [Life Achievements](get/life-achievements/README.md)
-  * [Histories](get/life-achievements/histories.md)
-  * [Informatics](get/life-achievements/informatics.md)
-* [CV/Portfolio](get/cv-portfolio.md)
+  * [💼 Histories](get/life-achievements/histories.md)
+  * [💻 Informatics](get/life-achievements/informatics.md)
 * [Social Links](get/contacts.md)
 
 ## Stories in 2016 <a href="#2016" id="2016"></a>
@@ -285,5 +284,5 @@
   * [Another Gambling on HIPSMU 2020](2020/january-june-2020/another-gambling-on-hipsmu-2020.md)
   * [Github Page Phase 1](2020/january-june-2020/github-page-phase-1.md)
   * [Moving to Campus Dormitory](2020/january-june-2020/moving-to-campus-dormitory.md)
-  * [Oh My Office Programs](2020/january-june-2020/oh-my-office-programs.md)
+  * [About My Thesis](2020/january-june-2020/about-my-thesis.md)
   * [Fighting Pat.](2020/january-june-2020/fighting-pat..md)
